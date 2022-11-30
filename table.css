@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: #fff;
+    font-size:x-large;
+    text-align: center;
+}
+input{
+    font-size: xx-large;
+}
+#submitButton{
+    border-radius: 5px;
+}
+#submitButton:hover{
+    background-color: #ff7200;
+    color: #fff;
+    cursor: pointer;
+    padding: 3px;
+}
+li{
+    list-style:none;
+}
+button{
+    background-color: #ff7200;
+    color: #fff;
+    cursor: pointer;
+    padding: 4px;
+    font-size: xx-large;
+    border-radius: 5px;
+    margin-left: 700px;
+
+}
+button:hover{
+    background-color: #fff;
+    color: #ff7200;
+}
